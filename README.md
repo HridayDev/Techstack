@@ -1,2 +1,15 @@
-# Techstack
-my stack axample and details
+# My Techstack
+
+---
+
+# Front-End
+- 
+- 
+
+# Back-End
+- 
+- 
+
+# Dev-Ops
+- 
+- 
